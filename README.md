@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudraunsh Yadav</h1>
 <h3 align="center">A passionate Computer Science Engineering student from India.</h3>
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS**
+- 🌱 I’m currently learning **Python, HTML, CSS, JS, C, C++, DSA**
 
 - 📫 How to reach me **rudraunshyadav@gmail.com**
 
